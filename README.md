@@ -3,21 +3,21 @@ this is my repo for my UNI conference project, in here will contain my webpage, 
 
 ***
 
-### Contents:
+### Contents
 1. Ideas for Project
 2. Research into chosen project
 3. ...
 4. Refrences
-5. [Contact details](21)
+5. [Contact details](Contact)
 
 
 ***
-### Refrences:
+### Refrences
 -
 -
 -
 
 ***
-### Contact details:
+### Contact
 - <th01034@surrey.ac.uk>
 - 
