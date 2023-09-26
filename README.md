@@ -8,14 +8,9 @@ this is my repo for my UNI conference project, in here will contain my webpage, 
 3. 
 
 
-<html>
-  <head>
-  </head>
-  <body>
-    <h1>hello</h1>
-    <a href="www.google.com">click here for google</a>
-  </body>
-</html>
+
+![image of a cat](cat.jfif)
+
 
 
 
