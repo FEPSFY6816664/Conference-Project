@@ -10,7 +10,9 @@ this is my repo for my UNI conference project, in here will contain my webpage, 
 
 <html>
   <head>
-    <title>test</title>
+    <title>
+      test
+    </title>
   </head>
 </html>
 
