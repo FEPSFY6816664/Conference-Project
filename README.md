@@ -8,7 +8,7 @@ this is my repo for my UNI conference project, in here will contain my webpage, 
 2. Research into chosen project
 3. ...
 4. Refrences
-5. [Contact details](Contact)
+5. [Contact details](#Contact)
 
 
 ***
