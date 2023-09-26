@@ -7,7 +7,7 @@ this is my repo for my UNI conference project, in here will contain my webpage, 
 1. Ideas for Project
 2. Research into chosen project
 3. ...
-4. Refrences
+4. [Refrences](#Refrences)
 5. [Contact details](#Contact)
 
 
@@ -20,4 +20,3 @@ this is my repo for my UNI conference project, in here will contain my webpage, 
 ***
 ### Contact
 - <th01034@surrey.ac.uk>
-- 
