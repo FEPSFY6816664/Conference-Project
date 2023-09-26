@@ -5,15 +5,19 @@ this is my repo for my UNI conference project, in here will contain my webpage, 
 
 ### Contents:
 1. Ideas for Project
-2. research into chosen project
-3. 
+2. Research into chosen project
+3. ...
+4. Refrences
+5. Contact details
 
 
 ***
-
-
 ### Refrences:
 -
 -
 -
 
+***
+### Contact details:
+- email <th01034@surrey.ac.uk>
+- 
